@@ -75,6 +75,7 @@ def test_check_out(driver):
     product.payment_confirmation()
     print('test finished')
     print('New line added')
+    print('one more line added')
     
 
 
